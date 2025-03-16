@@ -7,6 +7,7 @@
  - **Task Design Projects**: My main activity is to design psychological experiment using Python programming and PsychoPy.
     
  ## 📚 Education & Achievements
+ - **M.Sc. in Cognitive Rehabilitation**, University of Tehran
  - **B.Sc. in Psychology**, Shahid Beheshti University
  -  Ranked among the top 0.17% of students in the Iranian University Entrance Exam
  - **Neuromatch Academy Associate Computatioanl Neuroscience** certification
