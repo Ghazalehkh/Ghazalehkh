@@ -7,9 +7,8 @@
  - **B.Sc. in Psychology**, Shahid Beheshti University
  - **Neuromatch Academy Associate Computatioanl Neuroscience** certification
  - Ranked among the top 0.17% of students in the Iranian University Entrance Exam
- - **Raned 6th in Shahid Beheshti University, Computer Science Major**
- - Accepted paper at IKT Conference (under review by IEEE)
- 
+ - **Raned 6th in Shahid Beheshti University, Psychology Major**
+  
  ## 🌱 I'm currently learning
   - Machine Learning Techniques
  
