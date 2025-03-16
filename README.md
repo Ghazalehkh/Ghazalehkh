@@ -15,7 +15,7 @@
  
  ## 📫 How to reach me
  - Email: ghazale.kh14@gmail.com
- - LinkedIn:
+ - LinkedIn: www.linkedin.com/in/ghazaleh-khosravi-43196722b
  - GitHub: 
  
  
