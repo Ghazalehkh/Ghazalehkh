@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Ghazaleh Khosravi
-- 👀 I’m interested in Cognitive Science
-- 🌱 I’m currently learning Machine Learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Designing Behavioural and cognitive Tasks in the field of Cognitive Science.  
+- 🌱 I’m currently learning Machine Learning and computational modeling. 
+- 💞️ I’m looking to collaborate on different research projects which concentrates on Decision Making and implementing it in behavioral modeling research.  
+- 📫 How to reach me: You can find me out on linkedin, which is attached on my profile. 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 
