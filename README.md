@@ -2,7 +2,8 @@
  - **Languages:** Python
   - **Data Science & Machine Learning:** Pandas, NumPy, Matplotlib
  ## 🚀 Current Projects
- - **Data Science Projects**: Exploring deep learning models and applying them to real-world problems. 
+ - **Data Science Projects**: Exploring deep learning models and applying them to real-world problems.
+ - **Task Design Projects**: My main activity is to design psychological experiment using Python programming and PsychoPy.  
  ## 📚 Education & Achievements
  - **B.Sc. in Psychology**, Shahid Beheshti University
  - **Neuromatch Academy Associate Computatioanl Neuroscience** certification
