@@ -4,7 +4,7 @@
  -  Ranked among the top 1.7% of students in the Iranian University Entrance Exam
  -  Ranked 6th among 67 in class
  - **Neuromatch Academy Associate Computatioanl Neuroscience** certification
- - 
+
 ## 🔧 Technologies & Tools
  - **Languages:** Python
   - **Data Science & Machine Learning:** Pandas, NumPy, Matplotlib
