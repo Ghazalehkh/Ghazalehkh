@@ -1,7 +1,7 @@
  ## 📚 Education & Achievements
  - **M.Sc. in Cognitive Rehabilitation**, University of Tehran
  - **B.Sc. in Psychology**, Shahid Beheshti University
- -  Ranked among the top 1.7% of students in the Iranian University Entrance Exam
+ -  Ranked among the top 0.9% of students in the Iranian University Entrance Exam
  -  Ranked 6th among 67 in class
  - **Neuromatch Academy Associate Computatioanl Neuroscience** certification
 
