@@ -7,7 +7,6 @@
 
 ## 🔧 Technologies & Tools
  - **Languages:** Python
-  - **Data Science & Machine Learning:** Pandas, NumPy, Matplotlib
 
  ## 🚀 Current Projects
  - **Data Science Projects**: Exploring deep learning models and applying them to real-world problems.
