@@ -10,8 +10,7 @@
 
  ## 🚀 Current Projects
  - **Data Science Projects**: Exploring deep learning models and applying them to real-world problems.
- - **Task Design Projects**: My main activity is to design psychological experiment using Python programming and PsychoPy.
-     
+      
  ## 🌱 I'm currently learning
   - Machine Learning Techniques
  
