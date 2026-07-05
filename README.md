@@ -12,7 +12,7 @@
  - **Task Design Projects**: Designing behavioural tasks using Psychopy (on Python) & Psychtoolbox (on MATLAB)
       
  ## 🌱 I'm currently learning
-  - **UNREAL Engine** to design immersive enviroments in Virtual Reality and Game Design. 
+  - **Unreal Engine** to design immersive enviroments in Virtual Reality and Game Design. 
  
  ## 📫 Contact Info
  - Email: ghazale.kh14@gmail.com
