@@ -9,9 +9,9 @@
  - **Languages:** Python, MATLAB
 
  ## 🚀 Current Projects
- - ### 🧪 **Cognitive Task Design**: Designed and implemented multiple behavioural paradigms using PsychoPy (on Python) & Psychtoolbox (on MATLAB):
- - ### 🧠 Computational Neuroscience — Neuromatch Academy: Analysed the **IBL neural dataset** using single-unit and population-level (PCA) methods. Investigated how **prior probability shapes early sensory processing** in a decision-making task
-- ### 🥽 Immersive Environments: Designed a spatial navigation game in which the player should trace in a maze and find his way in Unreal enviroment. 
+ - 🧪 **Cognitive Task Design**: Designed and implemented multiple behavioural paradigms using PsychoPy (on Python) & Psychtoolbox (on MATLAB):
+ - 🧠 Computational Neuroscience — Neuromatch Academy: Analysed the IBL neural dataset using single-unit and population-level (PCA) methods. Investigated how prior probability shapes early sensory processing in a decision-making task
+- 🥽 Immersive Environments: Designed a spatial navigation game in which the player should trace in a maze and find his way in Unreal enviroment. 
       
  ## 🌱 I'm currently learning
 - Designing my Master's thesis around **computational psychiatry**
