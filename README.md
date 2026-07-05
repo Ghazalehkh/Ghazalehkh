@@ -7,6 +7,8 @@
 
 ## 🔧 Technologies & Tools
  - **Languages:** Python, MATLAB
+ - **Data Analysis & ML**: NumPy · Pandas · Matplotlib · Seaborn · scikit-learn · SPSS
+ - **Experiment & Task Design**: PsychoPy · Psychtoolbox
 
  ## 🚀 Current Projects
  - 🧪 **Cognitive Task Design**: Designed and implemented multiple behavioural paradigms using PsychoPy (on Python) & Psychtoolbox (on MATLAB). 
