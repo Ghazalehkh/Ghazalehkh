@@ -13,7 +13,7 @@
  ## 🚀 Current Projects
  - 🧪 **Cognitive Task Design**: Designed and implemented multiple behavioural paradigms using PsychoPy (on Python) & Psychtoolbox (on MATLAB). 
  - 🧠 Computational Neuroscience — Neuromatch Academy: Analysed the IBL neural dataset using single-unit and population-level (PCA) methods. Investigated how prior probability shapes early sensory processing in a decision-making task
-- 🥽 Immersive Environments: Designed a spatial navigation game in which the player should trace in a maze and find his way in Unreal enviroment. 
+- 🥽 Immersive Environments: Built a spatial navigation maze game in Unreal Engine — players navigate an immersive 3D  environment, designed as a foundation for future VR-based cognitive experiments
       
  ## 🌱 I'm currently ... 
 - Designing my Master's thesis around **computational psychiatry**
