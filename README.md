@@ -1,3 +1,7 @@
+# Hi, I'm Ghazaleh 👋
+
+I'm a Master's student in Cognitive Science building at the intersection of **experimental task design**, **computational modeling**, and **immersive technology**. 
+
  ## 📚 Education & Achievements
  - **M.Sc. in Cognitive Science- Cognitive Rehabilitation**, University of Tehran
  - **B.Sc. in Psychology**, Shahid Beheshti University
