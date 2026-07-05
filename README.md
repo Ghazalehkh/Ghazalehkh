@@ -9,10 +9,10 @@
  - **Languages:** Python
 
  ## 🚀 Current Projects
- - **Data Science Projects**: Exploring deep learning models and applying them to real-world problems.
+ - **Task Design Projects**
       
  ## 🌱 I'm currently learning
-  - Machine Learning Techniques
+  - 
  
  ## 📫 Contact Info
  - Email: ghazale.kh14@gmail.com
