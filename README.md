@@ -10,8 +10,9 @@ I'm a Master's student in Cognitive Science building at the intersection of **ex
 
 ## 🔧 Technologies & Tools
  - **Languages:** Python, MATLAB
- - **Data Analysis & ML**: NumPy · Pandas · Matplotlib · Seaborn · scikit-learn · SPSS
+ - **Data Analysis & ML**: NumPy · Pandas · Matplotlib · Seaborn · scikit-learn · SPSS 
  - **Experiment & Task Design**: PsychoPy · Psychtoolbox
+ - **EEG Signal Analysis**
 
  ## 🚀 Current Projects
 - **Cognitive Task Design**: Designed and implemented multiple behavioural paradigms using PsychoPy (on Python) & Psychtoolbox (on MATLAB). 
