@@ -9,10 +9,14 @@
  - **Languages:** Python, MATLAB
 
  ## 🚀 Current Projects
- - **Task Design Projects**: Designing behavioural tasks using Psychopy (on Python) & Psychtoolbox (on MATLAB)
+ - ### 🧪 **Cognitive Task Design**: Designed and implemented multiple behavioural paradigms using PsychoPy (on Python) & Psychtoolbox (on MATLAB):
+ - ### 🧠 Computational Neuroscience — Neuromatch Academy: Analysed the **IBL neural dataset** using single-unit and population-level (PCA) methods. Investigated how **prior probability shapes early sensory processing** in a decision-making task
+- ### 🥽 Immersive Environments: Designed a spatial navigation game in which the player should trace in a maze and find his way in Unreal enviroment. 
       
  ## 🌱 I'm currently learning
-  - **Unreal Engine** to design immersive enviroments in Virtual Reality and Game Design. 
+- Designing my Master's thesis around **computational psychiatry**
+- Learning Unreal Engine for VR experiment/game design
+- Advancing ML skills with a focus on neural and behavioural data
  
  ## 📫 Contact Info
  - Email: ghazale.kh14@gmail.com
