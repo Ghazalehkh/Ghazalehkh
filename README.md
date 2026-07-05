@@ -9,7 +9,7 @@
  - **Languages:** Python, MATLAB
 
  ## 🚀 Current Projects
- - **Task Design Projects**
+ - **Task Design Projects**: Designing behavioural tasks using Psychopy (on Python) & Psychtoolbox (on MATLAB)
       
  ## 🌱 I'm currently learning
   - 
