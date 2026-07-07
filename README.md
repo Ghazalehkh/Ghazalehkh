@@ -9,7 +9,7 @@ I'm a Master's student in Cognitive Science building at the intersection of **ex
  - **Neuromatch Academy Associate Computational Neuroscience** certification
 
 ## 🔧 Technologies & Tools
- - **Languages:** Python, MATLAB
+ - **Languages:** Python . MATLAB
  - **Data Analysis & ML**: NumPy · Pandas · Matplotlib · Seaborn · scikit-learn · SPSS 
  - **Experiment & Task Design**: PsychoPy · Psychtoolbox
  - **EEG Signal Analysis**
